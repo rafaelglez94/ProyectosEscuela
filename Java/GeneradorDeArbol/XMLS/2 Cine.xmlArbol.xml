@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Arbol.xml>
+        <Arbol Valor="">
+                <Weather Valor="Sunny">
+                        <Parents Valor="Yes">
+                                <CLASS Valor="Cinema"/>
+                        </Parents>
+                        <Parents Valor="No">
+                                <CLASS Valor="Tennis"/>
+                        </Parents>
+                </Weather>
+                <Weather Valor="Windy">
+                        <Parents Valor="Yes">
+                                <CLASS Valor="Cinema"/>
+                        </Parents>
+                        <Parents Valor="No">
+                                <Money Valor="Poor">
+                                        <CLASS Valor="Cinema"/>
+                                </Money>
+                                <Money Valor="Rich">
+                                        <CLASS Valor="Shopping"/>
+                                </Money>
+                        </Parents>
+                </Weather>
+                <Weather Valor="Rainy">
+                        <Parents Valor="Yes">
+                                <CLASS Valor="Cinema"/>
+                        </Parents>
+                        <Parents Valor="No">
+                                <CLASS Valor="StayIn"/>
+                        </Parents>
+                </Weather>
+        </Arbol>
+</Arbol.xml>
