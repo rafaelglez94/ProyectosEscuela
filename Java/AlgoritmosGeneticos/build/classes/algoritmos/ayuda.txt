@@ -1,0 +1,41 @@
+-------AYUDA SOBRE LOS TERMINOS DEL SISTEMA-------------
+
+Tamañoo de la población: En este se determina cuantos 
+individuos tendrá la población.
+
+Función de aptitud: Esta función representa el ambiente de la poblacion,esta 
+será la encargada de determinar la aptitud de cada uno de los individuos, 
+puede ser hasta de 4 incognitas; (x , y , z , w )
+		por ejemplo: ( x * x ) + ( 2 * y ) - 3
+
+Numero de Generaciones: En este campo debemos de especificar 
+cuantas generaciones realizará el algoritmo en busca de los 
+individuos más o menos aptos.
+
+Porcentaje de Cruza(%): Este determina la probabilidad que 
+tenga un individuo de cruzarse.
+
+Porcentaje de Mutación(%): Este determina la probabilidad que 
+un indiviuo de Mutar.
+
+Tipos de Selección: Los tipos de selección determinan un algoritmo
+el cual representa procesos para determinar los más aptos para el siguiente paso
+que es la cruza.
+
+Tipos de Cruza: Los tipos de cruza determinan un algoritmo
+el cual representa procesos para se hace cruzan dos individuos para formar 1 
+o más hijos.
+
+Tipos de Mutacion: Los tipos de mutacion determinan un algoritmo
+el cual representa procesos para agregarle variantes al los hijos que se crearon
+ateriormente.
+
+Tipo de Representación: Definen en que sistema Númerico serán las 
+entradas a la aplicación, en este caso se define Binaria (0,1)
+y Decimal (0,1,2...,9).
+
+Tamaño de Cromosoma: Determina el numero de Alelos que tendran los individuos
+en la poblacion.
+
+Tamaño de Genotipo: Determina el numero de Alelos que representara una variante
+en los metodos de selección para calcular su aptitud en el ambiente;

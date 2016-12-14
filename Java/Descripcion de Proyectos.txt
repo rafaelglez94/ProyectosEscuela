@@ -1,0 +1,11 @@
+- AlgoritmosGeneticos
+Proyecto de Inteligencia artificial que desarrollo un compañero y termine modificandolo yo para despues entregandolo.
+ PD: Es necesaria una libreria de java llamada JFreeChart
+
+- VideoStore
+Proyecto de Mantenimiento de Software el cual es un sistema simple de rante de videos con un pequeño inventario.
+PD: Es necesaria una libreria de java para la conexion a la base de datos (mysql-conector-java-5-1.40)
+
+- Metodos Numericos
+Proyecto de Metodos numericos el cual tiene la mayoria de los algoritmos vistos en clase
+ PD: Es necesaria una libreria de java llamada JFreeChart

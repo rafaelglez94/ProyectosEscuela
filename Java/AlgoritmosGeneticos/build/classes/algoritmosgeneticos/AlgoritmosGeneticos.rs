@@ -1,0 +1,15 @@
+algoritmosgeneticos.Algoritmo
+algoritmosgeneticos.Poblaciones
+algoritmosgeneticos.Mutacion
+algoritmosgeneticos.SeleccionPorRuleta
+algoritmosgeneticos.CruzaUniforme
+algoritmosgeneticos.Cruza
+algoritmosgeneticos.CruzaDeDosPuntos
+algoritmosgeneticos.MutacionPorDesplazamiento
+algoritmosgeneticos.MutacionPordesplazamiento
+algoritmosgeneticos.Cromosomas
+algoritmosgeneticos.SeleccionPorTorneo
+algoritmosgeneticos.Seleccion
+algoritmosgeneticos.CruzaDeUnPunto
+algoritmosgeneticos.MutacionPorInsercion
+algoritmosgeneticos.AlgoritmosGeneticos
