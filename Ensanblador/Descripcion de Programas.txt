@@ -1,0 +1,50 @@
+-Binario
+Le das un numero binario de 8 bits y este lo convierte a decimal
+
+-HexaBinario
+Le damos un valor en hexadecimal y este lo convierte a decimal
+
+
+- Fibonnac
+Programa que te imprime los 10 primero numeros de la serie Fibonnacci
+
+- Minuscula 
+Programa para convertir un texto en minusculas a mayusculas
+
+- Numeros Pares e Impares
+
+Programa que lee 10 numeros y te cuenta cuantos son pares y cuantos son impares
+
+- Primos
+Programa para evaluar un numero mandado y te dira si es primo o no
+
+- Prog0001
+Programa que le envias los valores de A,B,C y evalua la exprecion establecida.
+
+- ULAM 
+Programa para evaluar la conjetura de ULAM
+
+-DatosGenerales
+Muestra una presentación en consola
+
+- DecBin
+Programa para leer 1 numero y desplegarlo en binario
+
+- Examen
+Programa cuenta mayusculas, minusculas digitos y otros
+
+- HexBinario
+Programa para convertir de hexadecimal a binario
+
+-MayMin 
+Programa para convertir de mayusculas a minusculas
+
+- Procedimientos
+Programa para probar un procedimiento con parametros
+
+- Prog0203 
+Convertir un numero decimal a binario
+
+- SumaArreglo
+Miltiplicar arreglo por un numero
+
